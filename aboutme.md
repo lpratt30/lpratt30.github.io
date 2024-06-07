@@ -4,7 +4,9 @@ title: About me
 subtitle: Why I spend my limited mortal time programming 
 ---
 
-My name is Luke Pratt. I was forged in the fires of mechanical engineering. I took 30 more credits than needed to graduate, taking courses in philosophy, biomedical engineering, and even physics up to quantum mechanics. I even did a research project to make a device to emulate firefly emission spectra so that Biologists at the University of Georgia may be able to study genetic variations across populations! 
+My name is Luke Pratt. I was forged in the fires of mechanical engineering. I took 30 more credits than needed to graduate, taking courses in philosophy, biomedical engineering, and even physics up to quantum mechanics. 
+
+I even did a research project to make a device to emulate firefly emission spectra so that Biologists at the University of Georgia may be able to study genetic variations across populations! 
 
 As I was working as a Process Engineeer in the Semiconductor industry, I learned that my favorite aspect's of the job were those regarding data analysis. 
 
