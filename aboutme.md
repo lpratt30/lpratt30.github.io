@@ -6,13 +6,13 @@ subtitle: Why I spend my limited mortal time programming
 
 My name is Luke Pratt. I love to think a lot about how things in the world work.  
 
-I was forged in the fires of mechanical engineering. I took many more credits than needed to graduate, taking extra courses in philosophy, biomedical engineering, and even physics up to quantum mechanics.  
+I was forged in the fires of mechanical engineering. I took many more credits than needed to graduate, taking courses in philosophy, biomedical engineering, and even physics up to quantum mechanics.  
 
-After working as a Process Engineeer, I learned that my favorite aspect's of the job were those regarding data analysis. 
+As I was working as a Process Engineeer in the Semiconductor industry, I learned that my favorite aspect's of the job were those regarding data analysis. 
 
 I studied part-time at a community college to learn basic Java programming and data structures. I then went on to get my Master's in Computer Science, where I learned not only do I have an interest in data, I also find classic CS topics such as System's to be very interesting. 
 
-I'm always up for a challenge. Despite a non-CS background, I took some of the more challenging possible courses. My complete course list was:
+I gave Samsung a 10-week notice and focused on the Master's degree. Despite a non-CS background, I took some of the more challenging possible courses. My complete course list was:
 
 - Machine Learning, Reinforcement Learning, Deep Learning, Operating Systems, High Performance Computing, High Performance Computing Architecture, Big Data for Healthcare Analytics, Knowledge Based Artificial Intelligence, Machine Learning for Trading
 
