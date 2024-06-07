@@ -12,7 +12,9 @@ As I was working as a Process Engineeer in the Semiconductor industry, I learned
 
 While working at Intel, I studied part-time at a community college to learn basic Java programming and data structures. I moved to Samsung for a better schedule to study for school (compressed), in addition to a substantial increase in compensation. 
 
-However, I found the compressed (nights) schedule was terrible for my wellbing and greatly impaired my ability to study. I gave Samsung a 10-week notice and from there focused on finishing my Master's degree. Despite a non-CS background, I took some of the more challenging possible courses. My complete course list was:
+However, I found the compressed (nights) schedule was terrible for my wellbing and greatly impaired my ability to study. I gave Samsung a 10-week notice and from there focused on finishing my Master's degree. 
+
+Despite a non-CS background, I took some of the more challenging possible courses. My complete course list was:
 
 - Machine Learning, Reinforcement Learning, Deep Learning, Operating Systems, High Performance Computing, High Performance Computing Architecture, Big Data for Healthcare Analytics, Knowledge Based Artificial Intelligence, Machine Learning for Trading
 
