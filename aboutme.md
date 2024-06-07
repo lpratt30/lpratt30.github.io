@@ -18,8 +18,8 @@ Despite a non-CS background, I took some of the more challenging possible course
 
 - Machine Learning, Reinforcement Learning, Deep Learning, Operating Systems, High Performance Computing, High Performance Computing Architecture, Big Data for Healthcare Analytics, Knowledge Based Artificial Intelligence, Machine Learning for Trading
 
-During my studies, I learned not only do I have an interest in data, I also find classical CS topics such as System's to be very interesting. 
+During my studies, I learned not only do I have an interest in data, I also find classical CS topics such as Systems to be very interesting. 
 
 I am interested in roles that require data analysis and/or Machine Learning. I am also interested in roles for software development. Finally, I am interested in research oriented roles. 
 
-Basically, I am open to working on any interesting problems that I believe will augment my skills for the future. 
+In summary, I am passionate for working on any interesting problems that will augment my skills for the future. 
