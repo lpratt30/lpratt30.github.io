@@ -4,22 +4,26 @@ title: About me
 subtitle: Why I spend my limited mortal time Engineering 
 ---
 
-My name is Luke Pratt. I was forged in the fires of mechanical engineering. I took 30 more credits than needed to graduate, taking courses in philosophy, biomedical engineering, and even physics up to quantum mechanics. 
+My name is Luke Pratt. I was forged in the fires of mechanical engineering, having taken 30 more credits than needed to graduate, exploring courses in philosophy, biomedical engineering, and even quantum mechanics.
 
-I even did a research project to make a device to emulate firefly emission spectra so that Biologists at the University of Georgia may be able to study genetic variations across populations! 
+One of my notable projects involved creating a device to emulate firefly emission spectra, aiding biologists at the University of Georgia in studying genetic variations across populations.
 
-As I was working as a Process Engineeer in the Semiconductor industry, I learned that my favorite aspects of the job were those regarding data analysis. 
+While working as a Process Engineer in the semiconductor industry, I discovered my passion for data analysis. At Intel, I pursued part-time studies at a community college to learn Java programming and data structures. Seeking a better schedule for studying, I transitioned to Samsung, which also offered a substantial compensation increase. However, the compressed (night) schedule at Samsung negatively impacted my well-being and study effectiveness. After giving a 10-week notice, I focused on completing my Master’s degree.
 
-While working at Intel, I studied part-time at a community college to learn basic Java programming and data structures. I moved to Samsung for a better schedule to study for school (compressed), in addition to a substantial increase in compensation. 
+Despite not having a CS background, I took on some of the more challenging courses available, including:
 
-However, I found the compressed (nights) schedule was terrible for my wellbing and greatly impaired my ability to study. I gave Samsung a 10-week notice and from there focused on finishing my Master's degree. 
+- Machine Learning
+- Reinforcement Learning
+- Deep Learning
+- Operating Systems
+- High Performance Computing
+- High Performance Computer Architecture
+- Big Data for Health Informatics
+- Knowledge-Based Artificial Intelligence
+- Machine Learning for Trading
+  
+While I started the MS with a focus on Data Science, I soon found classical CS topics like Systems to be fascinating.
+                 
+I am interested in roles that involve data analysis, machine learning, software development, and research. My passion lies in tackling interesting problems that enhance my skills for the future.
 
-Despite a non-CS background, I took some of the more challenging possible courses. My complete course list was:
 
-- Machine Learning, Reinforcement Learning, Deep Learning, Operating Systems, High Performance Computing, High Performance Computing Architecture, Big Data for Healthcare Analytics, Knowledge Based Artificial Intelligence, Machine Learning for Trading
-
-During my studies, I learned not only do I have an interest in data, I also find classical CS topics such as Systems to be very interesting. 
-
-I am interested in roles that require data analysis and/or Machine Learning. I am also interested in roles for software development. Finally, I am interested in research oriented roles. 
-
-In summary, I am passionate for working on any interesting problems that will augment my skills for the future. 
