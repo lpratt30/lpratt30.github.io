@@ -19,3 +19,5 @@ However, I found the compressed (nights) schedule was terrible for my wellbing a
 During my studies, I learned not only do I have an interest in data, I also find classical CS topics such as System's to be very interesting. 
 
 I am interested in roles that require data analysis and/or Machine Learning. I am also interested in roles for software development. Finally, I am interested in research oriented roles. 
+
+Basically, I am open to working on any interesting problems that I believe will augment my skills for the future. 
