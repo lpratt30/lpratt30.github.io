@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Luke
+title: About Me
 subtitle: Why I spend my limited mortal time Engineering 
 ---
 
