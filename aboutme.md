@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why I spend my limited mortal time programming 
+subtitle: Why I spend my limited mortal time Engineering 
 ---
 
 My name is Luke Pratt. I was forged in the fires of mechanical engineering. I took 30 more credits than needed to graduate, taking courses in philosophy, biomedical engineering, and even physics up to quantum mechanics. 
