@@ -4,7 +4,7 @@ title: About Me
 subtitle: Why I spend my limited mortal time Engineering 
 ---
 
-My name is Luke Pratt. I was forged in the fires of mechanical engineering, having taken 30 more credits than needed to graduate, exploring courses in Philosophy, Biomedical Engineering, and Physics.
+My name is Luke Pratt. I was forged in the fires of Mechanical Engineering, having taken 30 more credits than needed to graduate, exploring courses in Philosophy, Biomedical Engineering, and Physics.
 
 One of my notable projects involved creating a device to emulate firefly emission spectra, aiding biologists at the University of Georgia in studying genetic variations across populations.
 
