@@ -6,7 +6,7 @@ subtitle: Why I spend my limited mortal time Engineering
 
 My name is Luke Pratt. I was forged in the fires of Mechanical Engineering, having taken 30 more credits than needed to graduate, exploring courses in Philosophy, Biomedical Engineering, and Physics.
 
-While working as a Process Engineer in the semiconductor industry, I found my passion for data analysis. On a daily basis, I would perform analysis to diagnose problems in a blackbox system containing millions of variables of varying covariance. 
+While working as a Process Engineer in the semiconductor industry, I found my passion for data analysis. On a daily basis, I would perform analysis to diagnose problems in a blackbox system containing thousands of variables of varying covariance. 
 
 At Intel, I pursued part-time studies at a community college to learn Java programming and data structures. Seeking a better schedule for studying, I transitioned to Samsung. However, the compressed (night) schedule at Samsung negatively impacted my well-being and study effectiveness. After giving a 10-week notice, I focused on completing my Master’s degree.
 
