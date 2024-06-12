@@ -1,6 +1,6 @@
 ---
 layout: page
-title: File Server Implementation
+title: Reinforcement Learning for Trading
 gh-repo: lpratt30/lpratt30.github.io
 ---
 
