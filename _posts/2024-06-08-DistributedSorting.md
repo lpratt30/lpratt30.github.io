@@ -10,7 +10,7 @@ We were graded based on how fast our code was relative to the rest of the class.
 
 My performance came by meticulous memory management, careful algorithm selection, and use of ring topology to avoid network congestion. 
 
-This was of course coded in C which is commong in HPC. 
+This was of course coded in C which is common in HPC. 
 
 Unfortunately, I cannot share this code publicly as that could result in plagiarism for an ongoing course. 
 
