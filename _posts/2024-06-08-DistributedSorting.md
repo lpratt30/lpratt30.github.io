@@ -16,4 +16,4 @@ Unfortunately, I cannot share this code publicly as that could result in plagiar
 
 However, I can share a small sample of the code, and note that I implemented sample sort (https://en.wikipedia.org/wiki/Samplesort): 
 
-![Image](../assets/img/sample_code.PNG)
+![Image](../assets/img/sample_code1.PNG)
