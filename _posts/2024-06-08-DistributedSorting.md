@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High Performance Computing: Distributed Sorting
+title: High Performance Computing, Distributed Sorting
 gh-repo: lpratt30/lpratt30.github.io
 ---
 
