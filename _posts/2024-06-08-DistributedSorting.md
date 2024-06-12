@@ -15,3 +15,5 @@ This was of course coded in C which is commong in HPC.
 Unfortunately, I cannot share this code publicly as that could result in plagiarism for an ongoing course. 
 
 However, I can share a small sample of the code, and note that I implemented sample sort (https://en.wikipedia.org/wiki/Samplesort): 
+
+[Image](../assets/img/sample_code.PNG)
