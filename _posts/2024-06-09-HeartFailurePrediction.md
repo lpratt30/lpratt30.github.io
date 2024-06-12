@@ -4,7 +4,7 @@ title: Predicting Heart Failure with Clinical Notes Using Deep Learning
 gh-repo: lpratt30/lpratt30.github.io
 ---
 
-We eplicated the paper “Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning”. Our
+We replicated the paper “Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning”. Our
 baseline Random Forest model outperformed their baseline RF model by .07 F1 score (0.67 to 0.74), contradicting
 their conclusion and finding the paper to be incorrect. Did so by writing involved SQL query in Google Big Query to
 extract data from MIMIC-III and using it to train a CNN on Word2Vec vectors and a Random Forest on TF-IDF.
