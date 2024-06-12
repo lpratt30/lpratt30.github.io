@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predicting Heart Failure with Clinical Notes Using Deep Learning
+title: Predicting Heart Failure Using Deep Learning
 gh-repo: lpratt30/lpratt30.github.io
 ---
 
