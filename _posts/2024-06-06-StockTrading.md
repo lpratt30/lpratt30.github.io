@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reinforcement Learning for Trading
+title: Reinforcement Learning for Stock Trading
 gh-repo: lpratt30/lpratt30.github.io
 ---
 
