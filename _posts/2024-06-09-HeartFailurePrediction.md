@@ -13,7 +13,7 @@ A video presentation that summarizes our project and it's findings is viewable h
 
 Our report is downloadable here: [Download the PDF](../assets/pdf/final_report.pdf)
 
-Our code repository is publicly available here: [https://github.com/lpratt30/Risk ](https://github.com/lpratt30/PredictingHF) 
+Our code repository is publicly available here: [Predicting HF](https://github.com/lpratt30/PredictingHF) 
 
 
 
